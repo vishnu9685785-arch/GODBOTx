@@ -1,0 +1,6 @@
+{
+  "name": "LoopLive 24/7",
+  "description": "Mobile-first continuous YouTube 24/7 live streaming manager from prerecorded videos with auto-retry, playlist looping, and Hindi/English support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
